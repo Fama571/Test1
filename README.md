@@ -6,4 +6,6 @@ Los puntos a seguir ser&aacute;n:
 
 >-No se que poner aqui.
 
+*Hola ¿como estan?
+
 >-El poner relleno a mis archivos siempre ha sido mi tal&oacute;n de Aquiles.
