@@ -6,6 +6,7 @@ Los puntos a seguir ser&aacute;n:
 
 >-No se que poner aqui.
 
-*Hola ¿como estan?
+* Hola ¿como estan?
+* Incluye ejemplo.
 
 >-El poner relleno a mis archivos siempre ha sido mi tal&oacute;n de Aquiles.
